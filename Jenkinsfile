@@ -9,7 +9,7 @@ pipeline {
 
         stage('Clone Code') {
             steps {
-                git 'https://github.com/YOUR_GITHUB_USERNAME/flask-devops-platform.git'
+                git 'https://github.com/VijayaLaxmi474/flask-devops-platform.git'
             }
         }
 
